@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="grpc-client.main" target="1.8" />
+      <module name="grpc-client.test" target="1.8" />
+      <module name="grpc-server.main" target="1.8" />
+      <module name="grpc-server.test" target="1.8" />
+      <module name="kotlin-grpc-example.proto.main" target="1.8" />
+      <module name="kotlin-grpc-example.proto.test" target="1.8" />
+      <module name="proto.main" target="1.8" />
+      <module name="proto.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

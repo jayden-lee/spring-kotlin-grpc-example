@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-client.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-server.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proto.iml" filepath="$PROJECT_DIR$/.idea/modules/proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proto.main.iml" filepath="$PROJECT_DIR$/.idea/modules/proto.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proto.test.iml" filepath="$PROJECT_DIR$/.idea/modules/proto.test.iml" />
+    </modules>
+  </component>
+</project>
